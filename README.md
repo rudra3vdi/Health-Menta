@@ -92,10 +92,6 @@ You can find the complete source code and additional information in the [GitHub 
 ## Contribution
 We welcome contributions! Feel free to open issues or submit pull requests to enhance the project.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Start your journey toward better health with **Health Menta**!
 
